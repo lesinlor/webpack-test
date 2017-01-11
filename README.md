@@ -1,5 +1,7 @@
 # webpack-test app
-this is a webpack bundle and dev server test,my project is running in vagrant.
+this is a webpack bundle and dev server test
+
+running in vagrant.
 
 # install package
 `$ npm install`
